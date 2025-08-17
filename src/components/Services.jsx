@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Layers, Shield, Settings, CheckCircle, ArrowRight, Droplets, Road, Mountain } from 'lucide-react'
+import { Layers, Shield, Settings, CheckCircle, ArrowRight, Droplets, Truck, Mountain } from 'lucide-react'
 
 export default function Services() {
   const services = [
